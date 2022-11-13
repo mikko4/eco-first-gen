@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eco-first-gen/static/css/main.5566df16.chunk.css",
+    "main.js": "/eco-first-gen/static/js/main.f45dc6cf.chunk.js",
+    "main.js.map": "/eco-first-gen/static/js/main.f45dc6cf.chunk.js.map",
+    "runtime-main.js": "/eco-first-gen/static/js/runtime-main.a802bea6.js",
+    "runtime-main.js.map": "/eco-first-gen/static/js/runtime-main.a802bea6.js.map",
+    "static/js/2.4e540ada.chunk.js": "/eco-first-gen/static/js/2.4e540ada.chunk.js",
+    "static/js/2.4e540ada.chunk.js.map": "/eco-first-gen/static/js/2.4e540ada.chunk.js.map",
+    "index.html": "/eco-first-gen/index.html",
+    "static/css/main.5566df16.chunk.css.map": "/eco-first-gen/static/css/main.5566df16.chunk.css.map",
+    "static/js/2.4e540ada.chunk.js.LICENSE.txt": "/eco-first-gen/static/js/2.4e540ada.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a802bea6.js",
+    "static/js/2.4e540ada.chunk.js",
+    "static/css/main.5566df16.chunk.css",
+    "static/js/main.f45dc6cf.chunk.js"
+  ]
+}
